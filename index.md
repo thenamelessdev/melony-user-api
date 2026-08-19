@@ -7,4 +7,4 @@ title: Melony user API docs
 Melony is a moderation panel for ERLC servers
 
 ### Pages
-- [Auth](/auth)
+- [Auth](auth)
