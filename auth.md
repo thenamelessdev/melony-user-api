@@ -1,5 +1,5 @@
 ---
-permalink: /auth
+permalink: auth
 title: Authentication
 ---
 
